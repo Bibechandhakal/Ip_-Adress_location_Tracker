@@ -6,7 +6,7 @@ sudo apt-get install pip
 cd ip_adress.py
 #install the module using iptools.sh
 ./iptools.sh
-#run python file using python3 
+#run python file using python3  
 python3 ip_adress_ tracker.py
 
 [+] Now Enter a valid ip adress
